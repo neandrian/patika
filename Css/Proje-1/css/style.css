@@ -1,0 +1,21 @@
+
+.text-center {
+    text-align: center;
+}
+
+h1 {
+    color: crimson;
+}
+
+h2 {
+    color: blueviolet;
+}
+
+h3 {
+    color: darkgoldenrod;
+}
+.menu li{
+    list-style: none;
+    display: inline;
+    padding: 0 10px;
+}
