@@ -28,3 +28,5 @@ Aşağıdaki sorgu senaryolarını **dvdrental** örnek veri tabanı üzerinden 
   ```sql
   select count(*) from city where city ilike '%r'
   ```
+
+[https://www.patika.dev](https://www.patika.dev)
