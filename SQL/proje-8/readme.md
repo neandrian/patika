@@ -1,4 +1,4 @@
-# Sql - Proje 7
+# Sql - Proje 8
 
 Aşağıdaki sorgu senaryolarını yeni oluşturacağımız **test** veri tabanı üzerinden gerçekleştiriniz.
 
