@@ -1,4 +1,4 @@
-# Sql - Proje 10
+# Sql - Proje 11
 
 Aşağıdaki sorgu senaryolarını **dvdrental** örnek veri tabanı üzerinden gerçekleştiriniz.
 
